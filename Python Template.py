@@ -4,14 +4,14 @@ def main_notes():   # to collapse the text below in the IDE
 
     REMEMBER TO SAVE AS NEW DOC, DON'T EDIT THIS FILE
 
-    Date
+    Development started 
 
     
     https://github.com/besser435?tab=repositories
     """
 
 version = "v1.0"
-date = "Month 2022"
+date = "Month 2022" # Last date of update
 
 
 import random
